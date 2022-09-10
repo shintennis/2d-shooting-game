@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - playerShot_1
+  - defaultShot
+  - playerMissile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Score
+  - Player
+  - Enemy
+  - Bullet(Player)
+  - Bullet(Enemy)
+  - DestroyArea
+  - Items
+  - playerBullet_1
+  - playerBullet_2
+  - playerBullet_3
+  - defaultBullet
+  - ExpItem
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bullet
+    uniqueID: 165661953
+    locked: 0
+  - name: Player
+    uniqueID: 3142737977
+    locked: 0
